@@ -1,6 +1,6 @@
-# Example Home Assistant add-on repository
+# TRMNL Home Assistant add-on repository
 
-This repository can be used as a "blueprint" for add-on development to help you get started.
+This repository can be used as to install the TMNL Server as an add on.
 
 Add-on documentation: <https://developers.home-assistant.io/docs/add-ons>
 

@@ -1,4 +1,4 @@
 # https://developers.home-assistant.io/docs/add-ons/repository#repository-configuration
-name: Example Home Assistant add-on repository
-url: 'https://github.com/home-assistant/addons-example'
-maintainer: Awesome Maintainer <awesome@example.com>
+name: HAOS TRMNL Repository
+url: 'https://github.com/HayesAshby/haos-trmnl'
+maintainer: Hayes Ashby <hayesashby@pm.me>
